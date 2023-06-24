@@ -1,0 +1,18 @@
+body {
+    background-color: mistyrose;
+}
+
+hr {
+    border-style: dotted none none;
+    width: 3%;
+    border-width: 5px;
+    border-color: rgb(210, 190, 190);
+}
+
+h1 {
+    color: rgb(0, 128, 255);
+}
+
+h3 {
+    color: #ff7060;
+}
